@@ -1,6 +1,7 @@
 package com.sh.designPatterns.create.factory;
 
 /**
+ * 通过将业务方法的调用移入工厂类，可以直接使用工厂对象来调用产品对象的业务方法，客户端无须直接使用工厂方法
  * @author: songhui
  * @create: 2021-08-18 17:33
  */
