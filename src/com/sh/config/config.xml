@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
 <config>
     <chartType>histogram</chartType>
+    <className>com.sh.designPatterns.create.factory.FileLoggerFactory</className>
 </config>
