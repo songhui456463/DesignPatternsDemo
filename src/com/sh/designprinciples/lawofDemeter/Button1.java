@@ -12,6 +12,7 @@ public class Button1 {
     private Mediator mediator;
 }
 
+// 降低系统的耦合度，使类与类之间保持松散的耦合关系
 class Mediator{
 
 }
