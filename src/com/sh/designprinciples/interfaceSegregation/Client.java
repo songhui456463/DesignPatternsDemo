@@ -50,7 +50,7 @@ class ConcreteClass2 implements DataHandler,ChartHandler {
     }
 }
 
-
+// 如果接口存在实现类不需要的方法，就将接口进行分隔
 interface DataHandler{
     void dataRead();
 }
