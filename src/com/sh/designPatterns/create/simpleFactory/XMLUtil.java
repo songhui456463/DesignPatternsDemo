@@ -9,7 +9,8 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
 
 /**
- * 约定->配置->编码
+ * 约定->配置->编码（优化传入参数方式）
+ * 简单工厂模式实现了对象创建和使用的分离
  * @author: songhui
  * @create: 2021-08-18 15:58
  */
